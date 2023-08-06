@@ -1,8 +1,10 @@
-👋 Hi, I'm Rohosen Bhattacharya, a UI/UX Designer, Interaction Designer, Frontend Developer, and Motion Graphic Artist.
+👋 Hi, I'm Rohosen Bhattacharya.
 
-💻 Proficient in HTML, CSS, JavaScript, and ReactJS. Currently mastering MERN Stack.
+⭐ From Design to Development, I do everything.
 
-📱 Experienced in hi-fidelity prototyping and user-flow with Figma. UI/UX designer at Frenzopay.
+🥇 My go to tech-stack: React, Tailwind, Firebase, MongoDB, Express.
+
+📱 Love designing and prototyping on Figma and fleshing them out with React and Tailwind.
 
 🎨 Expert in Motion Graphics. My animation stack: Adobe After Effects, Adobe Illustrator, and Adobe Animate.
 
