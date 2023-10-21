@@ -14,8 +14,4 @@ I know the following software: Adobe After Effects, Adobe Illustrator, Adobe Pho
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roho7&theme=merko&hide_border=false)](https://git.io/streak-stats) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roho7&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Roho7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
