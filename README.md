@@ -1,5 +1,9 @@
 # Rohosen Bhattacharya
-Welcome to my GitHub profile! I'm an avid problem solver who loves coding. With a strong aesthetic sense, I excel in the software arena in frontend development. However, I also build backends and I am equally enthusiastic about diving into UI/UX and motion graphic design.
+Hi! I'm Rohosen. I like to solve problems with logic and creativity. I have an arsenal of knowledge in different domains. Primarily, I focus on building interesting web and mobile interfaces using the MERN Stack. I like to build interfaces that matter. With deep rooted knowledge of the human behavior and an innate aesthetic sense, I focus on creating meaningful interactions between humans and machines.
+Currently I am pursuing a Master's in Human Computer Interaction at the University of Nottingham.
+I know the following languages: Typescript, JavaScript, Python and C. 
+I use the following technologies: React.js, Node.js, MongoDB, Express.JS, TailwindCSS, Framer Motion.
+I know the following software: Adobe After Effects, Adobe Illustrator, Adobe Photoshop, Adobe Premiere pro, Adobe XD, Figma.
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/Portfolio-flat)](https://roho.live) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohosen-bhattacharya-9311611aa/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rohosen_) 
@@ -13,7 +17,5 @@ Welcome to my GitHub profile! I'm an avid problem solver who loves coding. With 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Roho7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Roho7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
