@@ -1,6 +1,6 @@
 # Rohosen Bhattacharya
-Hi! I'm Rohosen. I like to solve problems with logic and creativity.
-Currently I am pursuing Master's in Human Computer Interaction at the University of Nottingham.
+Hi! I'm Roho.
+Currently building Periskope and pursuing a Master's in Human Computer Interaction at University of Nottingham.
 
 ## 🌐 Socials:
 [![My Portfolio](https://img.shields.io/badge/Portfolio-flat)](https://roho.live) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohosen-bhattacharya-9311611aa/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rohosen_) 
