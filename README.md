@@ -1,24 +1,25 @@
-# Rohosen Bhattacharya
-Hi! I'm Roho.
+# Hi, I'm Roho
 
-## 🌐 Socials:
-[![My Portfolio](https://img.shields.io/badge/Portfolio-flat)](https://roho.live) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohosen-bhattacharya-9311611aa/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rohosen_) 
+Senior full-stack engineer working on payments infrastructure at **Fireflies AI**. Before that I was a founding engineer at **Periskope**, where I built AI agents and automations for WhatsApp. I trained as a designer first, with an M.Sc. in Human-Computer Interaction from Nottingham, so I care about how the thing feels as much as how it works.
 
-# 💻 Tech Stack:
+**Currently:** building small tools for myself after work, like a dictation app that understands developer jargon and party games you play on your phone.
 
-### Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+## Selected work
 
-### Frontend
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+**Side projects**
+- **[Yapn](https://github.com/Roho7/yapn)**: Local dictation for the Mac that speaks developer. Hold Right Option, talk, let go.
+- **[Games Paglu](https://gamespaglu.vercel.app)**: Party games your phone helps you play in person. Offline, no signup. ([repo](https://github.com/Roho7/gamespaglu))
+- **[Jammune](https://chord-board-phi.vercel.app)**: A browser instrument for jamming with friends. Pick a key, hit a pad, play chords. ([repo](https://github.com/Roho7/chord-board))
+- **[Office Paglu](https://roho.live/project/office-paglu)**: A print-on-demand merch brand for Indian office life. It has a custom storefront, automatic order routing to print vendors, and WhatsApp order tracking.
+- **[Medusa payment plugins](https://medusa-payment-plugins.vercel.app)**: Payment provider plugins for MedusaJS. ([repo](https://github.com/Roho7/medusa-payment-plugins))
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+**At work** (closed source; write-ups on my site)
+- **[Periskope AI Agent](https://roho.live/project/periskope-ai-agent)**: Answers WhatsApp queries automatically, raises tickets, and loops in the team.
+- **[Periskope MCP Server](https://roho.live/project/periskope-mcp-server)**: Lets Claude and Cursor work directly with Periskope through 82 tools.
+- **[RAG knowledge base](https://roho.live/project/periskope-rag-knowledge-base)**: Keeps the AI's answers based on each business's own verified documents.
 
-### Software:
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roho7&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+More at **[roho.live](https://roho.live)**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Stack
+
+TypeScript · React / Next.js · Node / NestJS · PostgreSQL · Supabase · Stripe · Figma
